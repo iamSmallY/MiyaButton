@@ -3,34 +3,23 @@
   "neko_mimi": true,
   "name": {
     "CN": {
-      "title": "语音按钮",
+      "title": "Miya 按钮",
       "fullName": ""
     },
     "EN": {
-      "title": "Voives Button",
+      "title": "Miya Button",
       "fullName": ""
     }
   },
   "readme": "",
   "header": {
-    "icon": "img/logo.svg",
+    "icon": "img/logo.png",
     "youtube": "",
     "twitter": "",
     "bilibili": ""
   },
   "related": [],
-  "link": [
-    {
-      "name": "Hiiro按钮",
-      "url": "https://hiiro.club/",
-      "background": "#F5C1BB"
-    },
-    {
-      "name": "七奈按钮",
-      "url": "https://kaguranana-button-blacktunes.vercel.app/",
-      "background": "#c4afd0"
-    }
-  ],
+  "link": [],
   "footer": {
     "author": [
       {
@@ -44,7 +33,7 @@
     "githubUrl": "https://github.com/blacktunes/voices-button"
   },
   "console": {
-    "text": "https://github.com/blacktunes/voices-button",
+    "text": "",
     "size": "",
     "color": "",
     "img": "",

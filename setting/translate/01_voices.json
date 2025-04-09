@@ -1,21 +1,394 @@
 [
   {
-    "name": "好耶",
-    "path": "好耶.mp3",
-    "date": "2020-11-25",
-    "translate": {
-      "zh-CN": "好耶",
-      "en-US": "Haoye"
-    },
-    "usePicture": {
-      "zh-CN": "好耶.jpg",
-      "en-US": "好耶.jpg"
-    },
-    "category": "名言",
-    "mark": {
-      "title": "【Hiiro Record】11.24 Tue.读棉花糖",
-      "time": "59:33~59:34",
-      "url": "https://www.bilibili.com/video/BV1gy4y1q7cC"
-    }
+    "name": "表演绝活",
+    "path": "0.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "表演绝活" }
+  },
+  {
+    "name": "iloveyou",
+    "path": "1.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "iloveyou" }
+  },
+  {
+    "name": "你才千岁幼猫",
+    "path": "2.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "你才千岁幼猫" }
+  },
+  {
+    "name": "坏蛋",
+    "path": "3.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "坏蛋" }
+  },
+  {
+    "name": "我信了你的鬼话",
+    "path": "4.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "我信了你的鬼话" }
+  },
+  {
+    "name": "来打我",
+    "path": "5.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "来打我" }
+  },
+  {
+    "name": "说别人憨的人",
+    "path": "6.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "说别人憨的人" }
+  },
+  {
+    "name": "欸嘿",
+    "path": "7.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "欸嘿" }
+  },
+  {
+    "name": "nya",
+    "path": "8.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "nya" }
+  },
+  {
+    "name": "啊我输了",
+    "path": "9.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "啊我输了" }
+  },
+  {
+    "name": "嗷",
+    "path": "10.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "嗷" }
+  },
+  {
+    "name": "嗷嗷",
+    "path": "11.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "嗷嗷" }
+  },
+  {
+    "name": "变八嘎太",
+    "path": "12.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "变八嘎太" }
+  },
+  {
+    "name": "憋气",
+    "path": "13.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "憋气" }
+  },
+  {
+    "name": "喵啊啊",
+    "path": "14.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "喵啊啊" }
+  },
+  {
+    "name": "喵啊啊啊",
+    "path": "15.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "喵啊啊啊" }
+  },
+  {
+    "name": "喵呜",
+    "path": "16.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "喵呜" }
+  },
+  {
+    "name": "那怎么可能笨蛋表",
+    "path": "17.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "那怎么可能笨蛋表" }
+  },
+  {
+    "name": "那怎么可能笨蛋里",
+    "path": "18.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "那怎么可能笨蛋里" }
+  },
+  {
+    "name": "勝負あったな",
+    "path": "19.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "勝負あったな" }
+  },
+  {
+    "name": "哇啊啊",
+    "path": "20.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "哇啊啊" }
+  },
+  {
+    "name": "汪",
+    "path": "21.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "汪" }
+  },
+  {
+    "name": "呀",
+    "path": "22.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "呀" }
+  },
+  {
+    "name": "miya起床",
+    "path": "23.mp3",
+    "category": "阴阳",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "miya起床" }
+  },
+  {
+    "name": "啊啊啊",
+    "path": "24.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "啊啊啊" }
+  },
+  {
+    "name": "嗝~啊",
+    "path": "25.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "嗝~啊" }
+  },
+  {
+    "name": "喵~~",
+    "path": "26.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "喵~~" }
+  },
+  {
+    "name": "喵~",
+    "path": "27.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "喵~" }
+  },
+  {
+    "name": "喵~~~",
+    "path": "28.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "喵~~~" }
+  },
+  {
+    "name": "喵喵喵喵喵喵喵喵喵",
+    "path": "29.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "喵喵喵喵喵喵喵喵喵" }
+  },
+  {
+    "name": "嗯小哥哥人家不要了",
+    "path": "30.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "嗯小哥哥人家不要了" }
+  },
+  {
+    "name": "嗯~",
+    "path": "31.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "嗯~" }
+  },
+  {
+    "name": "你花呗还没还",
+    "path": "32.mp3",
+    "category": "阴阳",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "你花呗还没还" }
+  },
+  {
+    "name": "你快点啊我等的花儿都谢了",
+    "path": "33.mp3",
+    "category": "阴阳",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "你快点啊我等的花儿都谢了" }
+  },
+  {
+    "name": "起床了大笨蛋",
+    "path": "34.mp3",
+    "category": "阴阳",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "起床了大笨蛋" }
+  },
+  {
+    "name": "起来了dd",
+    "path": "35.mp3",
+    "category": "阴阳",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "起来了dd" }
+  },
+  {
+    "name": "作业写了吗",
+    "path": "36.mp3",
+    "category": "阴阳",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "作业写了吗" }
+  },
+  {
+    "name": "异世相遇尽享美味",
+    "path": "37.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "异世相遇尽享美味" }
+  },
+  {
+    "name": "猫猫坏笑",
+    "path": "38.mp3",
+    "category": "阴阳",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "猫猫坏笑" }
+  },
+  {
+    "name": "猫猫反派笑",
+    "path": "39.mp3",
+    "category": "阴阳",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "猫猫反派笑" }
+  },
+  {
+    "name": "猫猫反派笑2",
+    "path": "40.mp3",
+    "category": "阴阳",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "猫猫反派笑2" }
+  },
+  {
+    "name": "猫猫反派笑3",
+    "path": "41.mp3",
+    "category": "阴阳",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "猫猫反派笑3" }
+  },
+  {
+    "name": "niya异世相遇",
+    "path": "42.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "niya异世相遇" }
+  },
+  {
+    "name": "啊啊啊啊~",
+    "path": "43.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "啊啊啊啊~" }
+  },
+  {
+    "name": "这游戏有问题",
+    "path": "44.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "这游戏有问题" }
+  },
+  {
+    "name": "嗷呜",
+    "path": "45.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "嗷呜" }
+  },
+  {
+    "name": "不要吃我",
+    "path": "46.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "不要吃我" }
+  },
+  {
+    "name": "不要打我",
+    "path": "47.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "不要打我" }
+  },
+  {
+    "name": "别别别",
+    "path": "48.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "别别别" }
+  },
+  {
+    "name": "擦盘子",
+    "path": "49.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "擦盘子" }
+  },
+  {
+    "name": "吵死了",
+    "path": "50.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "吵死了" }
+  },
+  {
+    "name": "打嗝",
+    "path": "51.mp3",
+    "category": "怪叫",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "打嗝" }
+  },
+  {
+    "name": "打哈欠",
+    "path": "52.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "打哈欠" }
+  },
+  {
+    "name": "打嗝嗷嗷",
+    "path": "53.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "打嗝嗷嗷" }
+  },
+  {
+    "name": "喵喵喵喵喵喵",
+    "path": "54.mp3",
+    "category": "普通",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "喵喵喵喵喵喵" }
+  },
+  {
+    "name": "晚安臭DD",
+    "path": "55.mp3",
+    "category": "卖萌",
+    "date": "2021-02-06",
+    "translate": { "zh-CN": "晚安臭DD" }
   }
 ]

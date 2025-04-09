@@ -1,9 +1,32 @@
 [
   {
-    "name": "名言",
+    "name": "未分类",
     "translate": {
-      "zh-CN": "猫猫名言~",
-      "en-US": "Witticisms~"
+      "zh-CN": "未分类"
+    }
+  },
+  {
+    "name": "普通",
+    "translate": {
+      "zh-CN": "普通"
+    }
+  },
+  {
+    "name": "卖萌",
+    "translate": {
+      "zh-CN": "卖萌"
+    }
+  },
+  {
+    "name": "怪叫",
+    "translate": {
+      "zh-CN": "怪叫"
+    }
+  },
+  {
+    "name": "阴阳",
+    "translate": {
+      "zh-CN": "阴阳"
     }
   }
 ]
