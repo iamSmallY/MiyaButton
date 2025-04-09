@@ -13,6 +13,9 @@
         <IBtn v-if="btn.url" :url="btn.url" :img="btn.img" />
       </template>
 
+      <a class="link pointer" href="https://space.bilibili.com/846180">个人空间</a>
+      <a class="link pointer" href="https://live.bilibili.com/3012597">直播间</a>
+
       <div class="search-btn" @click="showSearch" v-if="!isWideScreen">
         <svg
           viewBox="0 0 1024 1024"
@@ -194,10 +197,19 @@ onMounted(() => {
     animation-delay 0.5s
 
   .title
-    color #eee
+    color #5F505F
     font-size 20px
-    margin-right 10px
+    margin-right 1em
     user-select none
+
+  .link
+    color #5F505F
+    font-size 18px
+    margin-right 0.75em
+    user-select none
+
+    &:hover
+      transform scale(1.1)
 
   .search-btn
     width 30px

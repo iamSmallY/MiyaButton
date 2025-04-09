@@ -13,15 +13,10 @@
           <template v-for="(item, index) in info" :key="index">
             <div v-html="item"></div>
           </template>
-          <img style="margin: 5px 5px 0px -2px" alt="GitHub Repo stars" :src="lastUpdate" />
         </div>
         <div>
           Powered by
           <a href="https://github.com/blacktunes/voices-button-cli">voices-button-cli</a>
-          {{
-            " | "
-          }}
-          <a href="https://github.com/blacktunes/hiiro-button">hiiro-button</a>
         </div>
       </div>
       <div class="text-right">
